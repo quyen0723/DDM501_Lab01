@@ -64,6 +64,12 @@ curl http://localhost:8000/health   # → {"status":"healthy","model_loaded":tru
 > `train_model.py` (it trains a small SVD automatically if `models/svd_model.pkl` is absent).
 > Once you train the real model, the same suite runs against the actual deliverable.
 
-## Team
+## Team — Group 1 (DDM501 — Lab 1)
 
-DDM501 — Lab 1 (team lab, 3–4 members).
+| # | Member |
+|---|--------|
+| 1 | Nguyễn Thị Hồng Ngọc |
+| 2 | Trần Huỳnh Thanh Trúc |
+| 3 | Nguyễn Tất Hiển |
+| 4 | Nguyễn Ngọc Mỹ Quyên |
+| 5 | Huỳnh Thị Thanh Vi |
